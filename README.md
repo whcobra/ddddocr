@@ -1,7 +1,7 @@
 ![header.png](https://z3.ax1x.com/2021/07/02/R6Ih28.jpg)
 
 # 带带弟弟OCR通用验证码识别SDK免费开源版
-
+# asdjjfhjfurhcjr
 # 今天ddddocr又更新啦！
   当前版本为1.3.1
 
